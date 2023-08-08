@@ -25,7 +25,7 @@
   
 - 🔭 Estou trabalhando atualmente com Back-end
   <br/>
-- 🌱 Estou atualmente aprendendo Python, Java e C
+- 🌱 Estou atualmente aprendendo Python, JavaScript
   <br/>
 - 🤔 meu instagram welsongds
   <br/>
