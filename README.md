@@ -1,4 +1,4 @@
-<h1>Oiii! Meu nome é Welson Gomes e trabalho com programação!!<h1/>
+<h1>Oiii! Meu nome é Welson Gomes! Atualmente estou me desenvolvendo para me tornar um desenvolverdor Back-End mas também aprendendo um pouco sobre as demais áreas para ser mais versátil!<h1/>
  
  
 <picture>
@@ -25,7 +25,7 @@
   
 - 🔭 Estou trabalhando atualmente com Back-end
   <br/>
-- 🌱 Estou atualmente aprendendo Python, JavaScript
+- 🌱 Estou atualmente aprendendo a desenvolver o Back-End com Node.js e Análise de Dados com Python!
   <br/>
 - 🤔 meu instagram welsongds
   <br/>
