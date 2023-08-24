@@ -1,32 +1,23 @@
-<h1>Oiii! Meu nome é Welson Gomes! Atualmente estou me desenvolvendo para me tornar um desenvolverdor Back-End mas também aprendendo um pouco sobre as demais áreas para ser mais versátil!<h1/>
- 
- 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=welsongds&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=welsongds&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=welsongds&show_icons=true" />
-</picture>
- 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welsongds&layout=compact)](https://github.com/welsongds/github-readme-stats)
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C" height="30" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="center" alt="Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+## Apresentação
 
-<br>
+Meu nome é Welson Gomes, atualmente curso ADS e faço parte de alguns programas que disponibilizaram bolsas para estudos da área de programação. Entre eles está a Cubos Academy, DIO com o Santander e entre outros.
+
+## Linguagens de programação
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+
+Essas são as linguagens que estou mais familiarizado, meu conhecimento sobre JavaScript está voltado mais a Back-End, Python está mais ligado a Análise de Dados mas tenho um bom conhecimento sobre a linguagem para outras áreas e o C++ foi a última disciplina que paguei na faculdade.
+
+## Redes para contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/welson-gomes-742375236/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/welsongds/)
+## Meu GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=welsongds&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=welsongds&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=welsongds&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+## Curiosidade sobre mim
   
-- 🔭 Estou trabalhando atualmente com Back-end
-  <br/>
-- 🌱 Estou atualmente aprendendo a desenvolver o Back-End com Node.js e Análise de Dados com Python!
-  <br/>
-- 🤔 meu instagram welsongds
-  <br/>
-- 📫 meu e-mail para contato welson.gs2207@gmail.com
+- Estou focado atualmente em desenvolvimento Back-end com Node.
+- Estou ao mesmo tempo fazendo cursos com Python, cursos focados em Front.
+- Estou fazendo alguns cursos para desenvolvimento das minhas Soft Skills.
+- Uma curiosidade menos séria sobre mim, é que adoro o mundo competitivo dos E-sports e amo futebol.
